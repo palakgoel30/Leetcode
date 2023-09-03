@@ -9,5 +9,6 @@ def singleNumber(nums):
         if (value == 1):
             return key
 
-nums = [2,2,3,2]
+
+nums = [2, 2, 3, 2]
 print(singleNumber(nums))

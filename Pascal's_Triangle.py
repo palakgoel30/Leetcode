@@ -10,6 +10,5 @@ def generate(numRows):
         list1.append(temp_list)
     return list1
 
-
 numRows = 5
 print(generate(numRows))
